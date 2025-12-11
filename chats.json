@@ -1,0 +1,79 @@
+{
+  "chats": {
+    "saccharok_maria": {
+      "chatId": "saccharok_maria",
+      "type": "private",
+      "participants": [
+        "saccharok",
+        "maria"
+      ],
+      "chatName": null,
+      "admin": null
+    },
+    "family_chat": {
+      "chatId": "family_chat",
+      "type": "group",
+      "participants": [
+        "saccharok",
+        "maria",
+        "anekdotolog"
+      ],
+      "chatName": null,
+      "admin": "saccharok"
+    },
+    "girls_chat": {
+      "chatId": "girls_chat",
+      "type": "group",
+      "participants": [
+        "saccharok",
+        "maria",
+        "varya"
+      ],
+      "chatName": null,
+      "admin": "saccharok"
+    },
+    "varya_saccharok": {
+      "chatId": "varya_saccharok",
+      "type": "private",
+      "participants": [
+        "varya",
+        "saccharok"
+      ],
+      "chatName": null,
+      "admin": null
+    },
+    "anekdotolog_maria": {
+      "chatId": "anekdotolog_maria",
+      "type": "private",
+      "participants": [
+        "anekdotolog",
+        "maria"
+      ],
+      "chatName": null,
+      "admin": null
+    },
+    "anekdotolog_saccharok": {
+      "chatId": "anekdotolog_saccharok",
+      "type": "private",
+      "participants": [
+        "saccharok",
+        "anekdotolog"
+      ],
+      "chatName": null,
+      "admin": "anekdotolog"
+    },
+    "new_chat": {
+      "chatId": "new_chat",
+      "type": "group",
+      "participants": [
+        "saccharok",
+        "maria",
+        "varya",
+        "anekdotolog",
+        "new"
+      ],
+      "chatName": "new_chat",
+      "admin": "new"
+    }
+  }
+}

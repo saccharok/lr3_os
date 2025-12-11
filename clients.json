@@ -1,0 +1,19 @@
+{
+  "clients": {
+    "saccharok": {
+      "password": "qwerty123"
+    },
+    "maria": {
+      "password": "mysecret456"
+    },
+    "anekdotolog": {
+      "password": "password"
+    },
+    "varya": {
+      "password": "papa"
+    },
+    "new": {
+      "password": "12345"
+    }
+  }
+}
