@@ -1,0 +1,19 @@
+{
+  "messages": [
+    {
+      "sender": "anekdotolog",
+      "content": "Чай поставьте",
+      "timestamp": "2024-01-15T11:05:00"
+    },
+    {
+      "sender": "maria",
+      "content": "Ок",
+      "timestamp": "2024-01-15T11:06:00"
+    },
+    {
+      "sender": "saccharok",
+      "content": "Купи шоколадку",
+      "timestamp": "2024-01-15T11:12:00"
+    }
+  ]
+}

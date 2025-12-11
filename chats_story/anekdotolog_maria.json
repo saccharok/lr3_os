@@ -1,0 +1,19 @@
+{
+  "messages": [
+    {
+      "sender": "anekdotolog",
+      "content": "Мария, привет! Слышал новый анекдот?",
+      "timestamp": "2024-01-15T14:05:00"
+    },
+    {
+      "sender": "maria",
+      "content": "Привет! Нет, расскажи",
+      "timestamp": "2024-01-15T14:07:00"
+    },
+    {
+      "sender": "anekdotolog",
+      "content": "Колобок повесился",
+      "timestamp": "2024-01-15T14:10:00"
+    }
+  ]
+}

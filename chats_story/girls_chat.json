@@ -1,0 +1,24 @@
+{
+  "messages": [
+    {
+      "sender": "saccharok",
+      "content": "Девочки, привет!",
+      "timestamp": "2024-01-15T12:05:00"
+    },
+    {
+      "sender": "maria",
+      "content": "Привет! Что планируем?",
+      "timestamp": "2024-01-15T12:07:00"
+    },
+    {
+      "sender": "varya",
+      "content": "Я за танцы!",
+      "timestamp": "2024-01-15T12:10:00"
+    },
+    {
+      "sender": "saccharok",
+      "content": "Варя, с Машей больше не общаемся!!!",
+      "timestamp": "2025-12-11T10:59:42.676442"
+    }
+  ]
+}

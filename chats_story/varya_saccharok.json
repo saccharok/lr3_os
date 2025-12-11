@@ -1,0 +1,19 @@
+{
+  "messages": [
+    {
+      "sender": "varya",
+      "content": "Привет! Ты дома?",
+      "timestamp": "2024-01-15T13:05:00"
+    },
+    {
+      "sender": "saccharok",
+      "content": "Да, дома. А что?",
+      "timestamp": "2024-01-15T13:07:00"
+    },
+    {
+      "sender": "varya",
+      "content": "Рядом шла, можно к тебе?",
+      "timestamp": "2024-01-15T13:10:00"
+    }
+  ]
+}

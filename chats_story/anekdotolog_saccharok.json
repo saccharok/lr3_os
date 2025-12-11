@@ -1,0 +1,14 @@
+{
+  "messages": [
+    {
+      "sender": "anekdotolog",
+      "content": "У меня есть новый анекдот!",
+      "timestamp": "2025-12-11T11:04:08.042951"
+    },
+    {
+      "sender": "anekdotolog",
+      "content": "Русалка пошла!",
+      "timestamp": "2025-12-11T11:04:14.477154"
+    }
+  ]
+}
